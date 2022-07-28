@@ -29,15 +29,29 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
  
 /* footer */
  
+#footer{
+     margin: 0px ;
+     padding: 0px;
+     overflow: hidden;
+     margin-bottom: -110px;
+     padding: 80px;
+     
+}
 .icone i{
      color: rgb(69, 130, 243);
      font-size: 30px;
      letter-spacing: 10px;
 
 }
- 
- 
 
+.content p{
+     color: rgb(169, 165, 165);
+     font-size: 15px;
+}
+ 
+.img-gradient img{
+     filter: brightness(0.5);
+}
  
  
  
