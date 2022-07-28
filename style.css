@@ -14,6 +14,7 @@ p{
 }
 
 
+/* navbar */
 ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
      margin-left: 100px;
      font-weight: 500;
@@ -26,6 +27,7 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
 
 
  
+/* footer */
  
 .icone i{
      color: rgb(69, 130, 243);
