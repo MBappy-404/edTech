@@ -56,6 +56,22 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
  
 
 
+@media only screen and (max-width:500px) {
+
+     
+     .caption-item h1{
+          font-size: 18px;
+     }
+
+     .caption-item p{
+          font-size: 10px;
+     }
+
+     .caption-item{
+          margin-top: 10px;
+     }
+}
+
  
  
  
